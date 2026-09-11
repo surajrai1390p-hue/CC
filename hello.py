@@ -7,4 +7,5 @@ sum = a + b
 
 print("Sum of " + a + " + " + b + " = " + sum)
 
+print("Program Finished")
 
